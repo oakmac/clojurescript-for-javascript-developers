@@ -6,4 +6,4 @@ A repository with resources for JavaScript developers to learn ClojureScript.
 
 ## Common Questions
 
-- What is the difference between `'()`` and `()`?
+- What is the difference between `'()` and `()`?
